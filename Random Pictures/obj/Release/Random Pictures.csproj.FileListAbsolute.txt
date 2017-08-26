@@ -1,8 +1,0 @@
-C:\Users\chen_\source\repos\Random Pictures\Random Pictures\bin\Release\Random Pictures.exe
-C:\Users\chen_\source\repos\Random Pictures\Random Pictures\bin\Release\Random Pictures.pdb
-C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Release\Random_Pictures.Form1.resources
-C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Release\Random_Pictures.Properties.Resources.resources
-C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Release\Random Pictures.csproj.GenerateResource.Cache
-C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Release\Random Pictures.csproj.CoreCompileInputs.cache
-C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Release\Random Pictures.exe
-C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Release\Random Pictures.pdb
