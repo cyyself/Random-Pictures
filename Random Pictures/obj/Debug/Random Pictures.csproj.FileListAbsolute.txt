@@ -1,0 +1,9 @@
+C:\Users\chen_\source\repos\Random Pictures\Random Pictures\bin\Debug\Random Pictures.exe
+C:\Users\chen_\source\repos\Random Pictures\Random Pictures\bin\Debug\Random Pictures.pdb
+C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Debug\Random Pictures.csprojResolveAssemblyReference.cache
+C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Debug\Random_Pictures.Form1.resources
+C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Debug\Random_Pictures.Properties.Resources.resources
+C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Debug\Random Pictures.csproj.GenerateResource.Cache
+C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Debug\Random Pictures.csproj.CoreCompileInputs.cache
+C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Debug\Random Pictures.exe
+C:\Users\chen_\source\repos\Random Pictures\Random Pictures\obj\Debug\Random Pictures.pdb
